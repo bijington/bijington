@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+I am a software engineer working in .NET, C#, WPF and Xamarin. I do sometimes venture out in to the world of other languages/platforms but those are my comfort zones.
+
+- 📫 How to reach me: @bijington on Twitter
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I have recently learned how good my 4 year old is at charades!
 
 <!--
 **bijington/bijington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
