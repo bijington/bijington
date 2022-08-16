@@ -6,7 +6,7 @@
 
 I love to tinker with things be that software related or better still disconnected from any computer.
 
-## :mag: You can find me at
+## :mag: Where you can find me
 
 - Twitter: [@bijington](https://twitter.com/bijington)
 - Blog: [blog.bijington.com](https://blog.bijington.com)
