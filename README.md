@@ -4,7 +4,11 @@
 
 :family_man_woman_girl_girl: `Father` and `Husband` | :video_game: `Gamer` | :iphone: and :computer: `Software Engineer` | `Microsoft MVP`
 
-I love to tinker with things be that software related or better still disconnected from any computer.
+Shaun is an avid gamer, learner and experimenter, these combined with a profession in software development make for some really fun journeys. He gets more than excited when others find interest in what he does and has made it his mission to share his learnings and result of the experiments with anyone that will listen.
+
+Father to two amazing children and many, many unfinished side projects.
+
+Shaun is a Microsoft MVP, speaker and published author.
 
 ## :mag: Where you can find me
 
