@@ -10,6 +10,7 @@ I love to tinker with things be that software related or better still disconnect
 
 - Twitter: [@bijington](https://twitter.com/bijington)
 - Blog: [blog.bijington.com](https://blog.bijington.com)
+- Sessionize: [https://sessionize.com/shaun-lawrence](https://sessionize.com/shaun-lawrence)
 
 ## :technologist: What I work on
 
